@@ -8,5 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="whiskey_orange">#FF5722</color>
+    <color name="whiskey_orange">#FF7347</color>
+    <color name="whiskey_orange_variant">#FF5925</color>
 </resources>
